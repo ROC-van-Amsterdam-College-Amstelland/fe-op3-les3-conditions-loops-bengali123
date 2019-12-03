@@ -6,5 +6,6 @@ function check() {
         document.getElementById("tekst").innerHTML = "uw saldo is te laag"
     } else {
         document.getElementById("tekst").innerHTML = "";
+        
     }
 }
